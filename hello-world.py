@@ -1,3 +1,6 @@
+# Hello World - Machine Learning Recipes #1
+# https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
+
 from sklearn import tree
 # 1 = "smooth"
 # 0 = "Bumpy"
